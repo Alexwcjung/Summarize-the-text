@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
 import random
-import transformers 
-import pipeline
+from transformers import pipeline  # Correct import
 import transformers.utils.logging
 
 # Disable progress bars globally
