@@ -1,0 +1,5 @@
+pandas
+gradio
+streamlit
+transformers
+pipeline
